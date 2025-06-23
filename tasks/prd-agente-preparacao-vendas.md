@@ -84,11 +84,6 @@ Como um SDR júnior, eu quero inserir o email corporativo de um lead e receber a
 - **Apollo.io API:** Para busca de informações de leads e contatos
 - **Configuração de ambiente:** Variáveis de ambiente para chaves de API
 
-### 6.3 Tratamento de Erros
-- Implementar fallbacks para quando APIs externas falharem
-- Tratar casos onde informações não estão disponíveis
-- Validação robusta de entrada de dados
-
 ## 7. Considerações de Design
 
 ### 7.1 Estrutura da Resposta
@@ -126,16 +121,7 @@ O briefing gerado deve seguir uma estrutura consistente:
 - Destacar insights mais relevantes
 - Usar formatação clara e organizada
 
-## 8. Questões Abertas
-
-1. **Limite de Rate das APIs:** Qual será o limite de uso das APIs do Firecrawl e Apollo.io?
-2. **Qualidade dos dados:** Como o agente deve proceder quando as informações coletadas são limitadas ou inconsistentes?
-3. **Empresas internacionais:** Como tratar empresas com presença global mas domínio local?
-4. **Setores regulamentados:** Há necessidade de avisos especiais para setores como saúde ou governo?
-5. **Personalização:** Os SDRs poderão configurar quais tipos de informação priorizar?
-6. **Tempo de resposta:** Qual é o tempo máximo aceitável para gerar um briefing completo?
-
-## 9. Critérios de Aceitação
+## 8. Critérios de Aceitação
 
 ### Critério Principal
 - ✅ O agente deve gerar um briefing completo e estruturado usando apenas um email corporativo como entrada
