@@ -22,6 +22,8 @@
     "@mastra/libsql": "^0.10.3",
     "@mastra/loggers": "^0.10.2",
     "@mastra/memory": "^0.10.4",
+    "@mendable/firecrawl-js": "^1.26.0",
+    "axios": "^1.10.0",
     "zod": "^3.25.67"
   },
   "devDependencies": {
