@@ -31,7 +31,6 @@
 
 - [ ] Criar agente em `src/mastra/agents/meeting-prep-agent.ts` com instruções em PT-BR. Exemplo: `src/mastra/agents/weather-agent.ts`
 - [ ] Configurar ferramentas no agente. Exemplo: `src/mastra/agents/weather-agent.ts`
-- [ ] Criar workflow em `src/mastra/workflows/meeting-prep-workflow.ts`. Exemplo: `src/mastra/workflows/weather-workflow.ts`
 - [ ] Registrar agente no `src/mastra/index.ts`. Remover toda a configuração de weather-agent.
 
 ## Nota para Demo
