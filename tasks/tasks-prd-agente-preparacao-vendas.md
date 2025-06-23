@@ -23,7 +23,7 @@
 #### 2.1 Criar ferramentas básicas
 
 - [ ] Implementar ferramenta Firecrawl simples em `src/mastra/tools/firecrawl-tool.ts`. Exemplo: `src/mastra/tools/weather-tool.ts`
-- [ ] Implementar ferramenta Apollo básica em `src/mastra/tools/apollo-tool.ts`. Exemplo: `src/mastra/tools/weather-tool.ts`
+- [ ] Implementar ferramenta Apollo básica em `src/mastra/tools/apollo-tool.ts`. Utilizar a API do Apollo.io para buscar informações de leads e contatos (`const APOLLO_API_BASE_URL = "https://api.apollo.io/api/v1/people/match";`). Exemplo: `src/mastra/tools/weather-tool.ts`.
 
 ### 3. Criar Agente
 
