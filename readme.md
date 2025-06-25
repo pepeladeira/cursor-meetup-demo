@@ -13,6 +13,7 @@ O agente receberá um email e usará a internet para pesquisar informações rel
 - **Cursor:** O editor de código "AI-first" utilizado para desenvolver este projeto.
 - **Mastra:** Uma estrutura para construir agentes e fluxos de trabalho de IA.
 - **Firecrawl:** Uma ferramenta para extrair e converter qualquer site em dados estruturados.
+- **Apollo.io:** Uma ferramenta para extrair informações de um lead.
 
 ## Evento
 
@@ -49,4 +50,4 @@ Vamos executar a tarefa 1.1 e utilize @process-task-list.mdc
 
 ## Solução Final
 
-O código final e a solução completa apresentada na demonstração podem ser encontrados na seguinte branch: [@https://github.com/pepeladeira/cursor-meetup-demo/tree/final-solution](https://github.com/pepeladeira/cursor-meetup-demo/tree/final-solution).
+O código final e a solução completa apresentada na demonstração podem ser encontrados na seguinte branch: [https://github.com/pepeladeira/cursor-meetup-demo/tree/final-solution](https://github.com/pepeladeira/cursor-meetup-demo/tree/final-solution).
